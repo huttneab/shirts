@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="360px" height="360px" viewBox="0 0 360 360" enable-background="new 0 0 360 360" xml:space="preserve">
+<pattern  width="5.334" height="5.333" patternUnits="userSpaceOnUse" id="BlueCheck" viewBox="0 -5.333 5.334 5.333" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.333,0 5.333,-5.333 0,-5.333 		"/>
+		<g>
+			<polygon fill="#1C75BC" points="0,0 2.667,0 2.667,-5.333 0,-5.333 			"/>
+			<polygon fill="#FFFFFF" points="2.667,0 5.333,0 5.333,-5.333 2.667,-5.333 			"/>
+		</g>
+		<g opacity="0.5">
+			<polygon fill="#1C75BC" points="0,-5.333 0,-2.667 5.333,-2.667 5.333,-5.333 			"/>
+			<polygon fill="#FFFFFF" points="0,-2.667 0,0 5.333,0 5.333,-2.667 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.333" patternUnits="userSpaceOnUse" id="BlueVstripe" viewBox="0 -5.333 5.334 5.333" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.333,0 5.333,-5.333 0,-5.333 		"/>
+		<polygon fill="#1C75BC" points="0,0 2.667,0 2.667,-5.333 0,-5.333 		"/>
+		<polygon fill="#FFFFFF" points="2.667,0 5.333,0 5.333,-5.333 2.667,-5.333 		"/>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.334" patternUnits="userSpaceOnUse" id="GrapeCheck" viewBox="0 -5.334 5.334 5.334" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.334 0,-5.334 		"/>
+		<g>
+			<polygon fill="#6A2C91" points="0,0 2.667,0 2.667,-5.333 0,-5.333 			"/>
+			<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.333 2.667,-5.333 			"/>
+		</g>
+		<g opacity="0.5">
+			<polygon fill="#6A2C91" points="0,-5.334 0,-2.667 5.333,-2.667 5.333,-5.334 			"/>
+			<polygon fill="#FFFFFF" points="0,-2.667 0,0 5.333,0 5.333,-2.667 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.333" patternUnits="userSpaceOnUse" id="GrapeVstripe" viewBox="0 -5.333 5.334 5.333" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.333 0,-5.333 		"/>
+		<polygon fill="#6A2C91" points="0,0 2.667,0 2.667,-5.333 0,-5.333 		"/>
+		<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.333 2.667,-5.333 		"/>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.334" patternUnits="userSpaceOnUse" id="LimeCheck" viewBox="0 -5.334 5.334 5.334" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.334 0,-5.334 		"/>
+		<g>
+			<polygon fill="#A9C398" points="0,0 2.667,0 2.667,-5.333 0,-5.333 			"/>
+			<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.333 2.667,-5.333 			"/>
+		</g>
+		<g opacity="0.5">
+			<polygon fill="#A9C398" points="0,-5.334 0,-2.667 5.333,-2.667 5.333,-5.334 			"/>
+			<polygon fill="#FFFFFF" points="0,-2.667 0,0 5.333,0 5.333,-2.667 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.333" patternUnits="userSpaceOnUse" id="LimeVstripe" viewBox="0 -5.333 5.334 5.333" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.333 0,-5.333 		"/>
+		<polygon fill="#A9C398" points="0,0 2.667,0 2.667,-5.333 0,-5.333 		"/>
+		<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.333 2.667,-5.333 		"/>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.334" patternUnits="userSpaceOnUse" id="SkyCheck" viewBox="0 -5.334 5.334 5.334" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.334 0,-5.334 		"/>
+		<g>
+			<polygon fill="#91B0D5" points="0,0 2.667,0 2.667,-5.333 0,-5.333 			"/>
+			<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.333 2.667,-5.333 			"/>
+		</g>
+		<g opacity="0.5">
+			<polygon fill="#91B0D5" points="0,-5.334 0,-2.667 5.333,-2.667 5.333,-5.334 			"/>
+			<polygon fill="#FFFFFF" points="0,-2.667 0,0 5.333,0 5.333,-2.667 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.333" patternUnits="userSpaceOnUse" id="SkyVstripe" viewBox="0 -5.333 5.334 5.333" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.333 0,-5.333 		"/>
+		<polygon fill="#91B0D5" points="0,0 2.667,0 2.667,-5.333 0,-5.333 		"/>
+		<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.333 2.667,-5.333 		"/>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.334" patternUnits="userSpaceOnUse" id="WhisperCheck" viewBox="0 -5.334 5.334 5.334" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.334 0,-5.334 		"/>
+		<g>
+			<polygon fill="#FAC8CB" points="0,0 2.667,0 2.667,-5.334 0,-5.334 			"/>
+			<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.334 2.667,-5.334 			"/>
+		</g>
+		<g opacity="0.5">
+			<polygon fill="#FAC8CB" points="0,-5.334 0,-2.667 5.333,-2.667 5.333,-5.334 			"/>
+			<polygon fill="#FFFFFF" points="0,-2.667 0,0 5.333,0 5.333,-2.667 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  width="5.334" height="5.333" patternUnits="userSpaceOnUse" id="WhisperVstripe" viewBox="0 -5.333 5.334 5.333" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.334,0 5.334,-5.333 0,-5.333 		"/>
+		<polygon fill="#FAC8CB" points="0,0 2.667,0 2.667,-5.333 0,-5.333 		"/>
+		<polygon fill="#FFFFFF" points="2.667,0 5.334,0 5.334,-5.333 2.667,-5.333 		"/>
+	</g>
+</pattern>
+<rect x="134.054" y="115.805" fill="url(#BlueVstripe)" width="21.169" height="21.169"/>
+<rect x="159.888" y="115.805" fill="url(#BlueCheck)" width="21.169" height="21.169"/>
+<text transform="matrix(1 0 0 1 193.3906 127.8057)" font-family="'MyriadPro-Regular'" font-size="8">Bluebell</text>
+<text transform="matrix(1 0 0 1 136.6558 105.7925)" font-family="'MyriadPro-Regular'" font-size="6">Stripe</text>
+<text transform="matrix(1 0 0 1 162.3228 105.793)" font-family="'MyriadPro-Regular'" font-size="6">Check</text>
+<rect x="133.812" y="145.472" fill="url(#SkyVstripe)" width="21.169" height="21.169"/>
+<rect x="159.645" y="145.472" fill="url(#SkyCheck)" width="21.169" height="21.169"/>
+<text transform="matrix(1 0 0 1 193.1475 157.4722)" font-family="'MyriadPro-Regular'" font-size="8">Sky </text>
+<rect x="134.656" y="176.192" fill="url(#LimeVstripe)" width="21.169" height="21.169"/>
+<rect x="160.489" y="176.192" fill="url(#LimeCheck)" width="21.169" height="21.169"/>
+<text transform="matrix(1 0 0 1 193.9922 188.1934)" font-family="'MyriadPro-Regular'" font-size="8">Lime</text>
+<rect x="134.656" y="206.192" fill="url(#GrapeVstripe)" width="21.169" height="21.169"/>
+<rect x="160.489" y="206.192" fill="url(#GrapeCheck)" width="21.169" height="21.169"/>
+<text transform="matrix(1 0 0 1 193.9922 218.1934)" font-family="'MyriadPro-Regular'" font-size="8">Grape</text>
+<rect x="134.656" y="235.859" fill="url(#WhisperVstripe)" width="21.169" height="21.169"/>
+<rect x="160.489" y="235.859" fill="url(#WhisperCheck)" width="21.169" height="21.169"/>
+<text transform="matrix(1 0 0 1 193.9922 247.8594)" font-family="'MyriadPro-Regular'" font-size="8">Whisper</text>
+</svg>
